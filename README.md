@@ -2,6 +2,8 @@
 
 Este repositório é dedicado a listar jogos que não receberam dublagem oficial, disponibilizando links para dublagens feitas por IA. Nosso objetivo é facilitar o acesso a esses conteúdos, respeitando sempre o trabalho dos dubladores profissionais.
 
+**Versão das dublagens inicialmente exclusivos para PC**
+
 ## Disclaimer
 
 Apoiamos integralmente os dubladores oficiais e as empresas de dublagem. Este repositório serve apenas para listar jogos que não tiveram intenção prévia de serem dublados.
